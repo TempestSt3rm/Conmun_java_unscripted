@@ -4,6 +4,9 @@
             <a class="footer-brand-container" href="https://www.conmun.org/" target="_blank">
                 <img src="@/assets/conmun_logo.png" alt="ConMun Logo" />
             </a>
+            <div class="footer-brand-text">
+                Concordia Model United Nations 2025
+            </div>
         </div>
         <div class="footer-text">
             <div class="footer-item">
@@ -49,7 +52,8 @@ export default {
 
 .footer{
     background-color: #a0a0a0;
-    height: 10vh;
+    min-height: 10vh;
+
     display: flex;
 }
 
@@ -63,6 +67,10 @@ export default {
     width: 100%; 
     height: 100%; 
     object-fit: contain; 
+}
+
+.footer-brand-text{
+    display: none;
 }
 
 .footer-text{
@@ -130,6 +138,43 @@ export default {
 
 .footer-copy-right .mini {
     font-size: 1.2vh;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    flex-direction: column; /* Stack sections vertically */
+    align-items: center; /* Center-align content for better mobile design */
+    text-align: center; /* Center text for a cleaner look */
+  }
+  .footer-brand img{
+    display: none;
+  }
+  .footer-text{
+    flex-direction: column;
+    gap: 1vh;
+    margin-top: 1vh;
+  }
+
+  .footer-text *{
+    font-size: 5vh;
+  }
+
+  .footer-spacer{
+    flex: 0;
+  }
+  .follow-image{
+    height: 6vh;
+    width: auto;
+  }
+
+  .footer-brand-text{
+    display: block;
+    font-size: 4vh;
+    color: black;
+    margin-top: 2vh;
+  }
+
+
 }
 
     

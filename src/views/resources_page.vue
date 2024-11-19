@@ -1,6 +1,6 @@
 <template >
     <div>
-        adf
+        Resources page coming soon!
     </div>
 </template>
 <script>

@@ -5,7 +5,10 @@
           <img src="@/assets/logo.png" alt="MyApp Logo" />
         </a>
       </div>
-      <div class="navbar-start">
+      <button class="burger" @click="toggleMenu">
+      ☰
+      </button>
+      <div :class="{ 'navbar-start': true, active: isMenuOpen }">
         <router-link to="/" class="navbar-item">Introduction</router-link>
         <router-link to="/general" class="navbar-item">General</router-link>
         <router-link to="/history" class="navbar-item">Committee History</router-link>
@@ -20,9 +23,20 @@
   </template>
   
   <script>
-  export default {
-    name: 'Navbar_component',
-  };
+  import { ref } from "vue";
+
+export default {
+  name: "Navbar_component",
+  setup() {
+    const isMenuOpen = ref(false);
+
+    const toggleMenu = () => {
+      isMenuOpen.value = !isMenuOpen.value;
+    };
+
+    return { isMenuOpen, toggleMenu };
+  },
+};
   </script>
   
   <style scoped>
@@ -67,6 +81,49 @@
   .navbar-spacer{
     flex: 2;
   }
+
+
+  .burger {
+  display: none;
+  font-size: 6vh;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  }
+
+
+  @media screen and (max-width: 768px) {
+  .burger {
+    display: block;
+    position:absolute;
+    right: 0;
+  }
+  .navbar-spacer{
+    flex: 0;
+  }
+
+  .navbar-start {
+    display: none; /* Hide the menu by default */
+    flex-direction: column;
+    background-color: #333;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    width: 200px;
+    border-radius: 5px;
+  }
+
+  .navbar-start.active {
+    display: flex; /* Show the menu when active */
+  }
+
+  .navbar-item {
+    text-align: right;
+    padding: 1rem;
+  }
+}
+
   
   </style>
   

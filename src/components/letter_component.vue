@@ -2,7 +2,7 @@
     <div class="letter-wrapper">
         <h1> {{ title }}</h1>
         <p class="start"> {{start }}</p>
-        <slot></slot>
+        <slot class="letter-body"></slot>
         <div class="sign-off">
             {{ position }}
             <span id="signature">{{signOff}}</span>
@@ -63,8 +63,6 @@ export default defineComponent({
     padding-left: 1% ;
 }
 
-p {
-  line-height: 2; 
-}
+
     
 </style>
