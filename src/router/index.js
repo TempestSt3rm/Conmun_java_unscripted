@@ -3,7 +3,7 @@ import IntroductionPage from '@/views/introduction_page.vue';
 import Committee_history_page from '@/views/committee_history_page.vue';
 import Character_page from '@/views/characters_page.vue';
 import Resources_page from '@/views/resources_page.vue';
-import temporary_page from '@/views/temporary_page.vue'
+import herobrine_page from '@/views/herobrine_page.vue'
 import mechanics_page from '@/views/mechanics_page.vue';
 import Background_page from '@/views/background_page.vue';
 import Specific_character_page from '@/views/specific_character_page.vue';
@@ -34,9 +34,9 @@ const routes = [
     component: Resources_page,
     name: 'ResoucesPage',   },
   {
-      path: '/temporary',
-      component: temporary_page,
-      name: 'tempPage',   },
+      path: '/herobrine',
+      component: herobrine_page,
+      name: 'herobrine',   },
   {
     path: '/mechanics',
     component: mechanics_page,
