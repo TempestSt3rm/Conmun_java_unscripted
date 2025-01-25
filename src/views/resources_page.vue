@@ -1,6 +1,6 @@
 <template >
     <div>
-        Resources page coming soon!
+        Resources page coming soon!!
     </div>
 </template>
 <script>
