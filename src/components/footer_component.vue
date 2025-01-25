@@ -20,7 +20,7 @@
             </div>
             <div class="follow">
                 <div class="follow-text"> 
-                    <a href="https://www.conmun.org/en/contact-us" target="_blank" class="styless"> Follow Us</a>
+                    <a href="https://linktr.ee/conmun25" target="_blank" class="styless"> Follow Us</a>
                 </div>
                 <div class="footer-social-container">
                     <a class="follow-image" href="https://www.instagram.com/concordiamodelun/" target="_blank">

@@ -9,11 +9,11 @@
       ☰
       </button>
       <div :class="{ 'navbar-start': true, active: isMenuOpen }">
-        <router-link to="/" class="navbar-item">Introduction</router-link>
-        <router-link to="/general" class="navbar-item">General</router-link>
+        <router-link to="/background" class="navbar-item">Background</router-link>
         <router-link to="/history" class="navbar-item">Committee History</router-link>
+        <router-link to="/mechanics" class="navbar-item">Mechanics</router-link>
         <router-link to="/characters" class="navbar-item">Characters</router-link>
-        <router-link to="/resources" class="navbar-item">Resources</router-link>
+        <!-- <router-link to="/resources" class="navbar-item">Resources</router-link> -->
       </div>
       <div class="navbar-spacer">
 
@@ -50,9 +50,20 @@ export default {
     align-items: center;
     
   }
-  .navbar-item {
-    color: #fff;
-    text-decoration: none;
+
+  .navbar-item{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-family: 'Minecraftia',sans-serif ;
+    height: fit-content;
+    font-size: clamp(16px,1.7vw,2vw);
+  }
+
+  .navbar-start .navbar-item{
+    padding-top: 2.5vh;
   }
 
   .navbar-item img{ 
@@ -72,11 +83,10 @@ export default {
     flex-direction: row;
     justify-content: space-evenly;
     align-content: center;
+    
+    height: 10vh;
   }
-  .navbar-item{
-    align-content: center;
-    font-size: clamp(16px,3vh,24px);
-  }
+
 
   .navbar-spacer{
     flex: 2;

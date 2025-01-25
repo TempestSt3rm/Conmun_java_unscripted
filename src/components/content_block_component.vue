@@ -64,6 +64,8 @@ export default defineComponent({
 
 .internal-title{
     margin-left: 2%;
+    display: flex;
+    
 }
 
 .content-text-wrapper{
@@ -73,5 +75,7 @@ export default defineComponent({
 .character-head{
   height: 5vh;
   width: auto;
+  justify-content: center;
+  align-items: center;
 }
 </style>

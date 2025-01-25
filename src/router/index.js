@@ -1,9 +1,12 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import IntroductionPage from '@/views/introduction_page.vue';
-import General_page from '@/views/general_page.vue';
 import Committee_history_page from '@/views/committee_history_page.vue';
 import Character_page from '@/views/characters_page.vue';
 import Resources_page from '@/views/resources_page.vue';
+import temporary_page from '@/views/temporary_page.vue'
+import mechanics_page from '@/views/mechanics_page.vue';
+import Background_page from '@/views/background_page.vue';
+import Specific_character_page from '@/views/specific_character_page.vue';
 
 const routes = [
   {
@@ -12,9 +15,9 @@ const routes = [
     name: 'IntroductionPage', 
   },
   {
-    path: '/general',
-    component: General_page,
-    name: 'GeneralPage', 
+    path: '/background',
+    component: Background_page,
+    name: 'BackgroundPage', 
   },
   {
     path: '/history',
@@ -24,12 +27,26 @@ const routes = [
   {
     path: '/characters',
     component: Character_page,
-    name: 'CharacterPage',
+    name: 'Characters_Page',
   },
   {
     path: '/resources',
     component: Resources_page,
     name: 'ResoucesPage',   },
+  {
+      path: '/temporary',
+      component: temporary_page,
+      name: 'tempPage',   },
+  {
+    path: '/mechanics',
+    component: mechanics_page,
+    name: 'MechanicsPage',   },
+  {
+    path: '/character/:name', 
+    name: 'CharacterPage',
+    component: Specific_character_page,
+    props: true, 
+  },  
 ];
 
 const router = createRouter({
