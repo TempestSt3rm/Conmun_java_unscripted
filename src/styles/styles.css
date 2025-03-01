@@ -129,4 +129,10 @@ a:hover::after {
   height: 0; /* Ensure no height change happens */
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
 
+html {
+  scrollbar-width: none;
+}

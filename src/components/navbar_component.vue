@@ -9,9 +9,9 @@
       ☰
       </button>
       <div :class="{ 'navbar-start': true, active: isMenuOpen }">
+        <router-link to="/gameplay" class="navbar-item">Gameplay</router-link>
         <router-link to="/background" class="navbar-item">Background</router-link>
         <router-link to="/history" class="navbar-item">Committee History</router-link>
-        <router-link to="/mechanics" class="navbar-item">Mechanics</router-link>
         <router-link to="/characters" class="navbar-item">Characters</router-link>
         <!-- <router-link to="/resources" class="navbar-item">Resources</router-link> -->
       </div>

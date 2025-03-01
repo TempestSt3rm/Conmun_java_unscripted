@@ -1,6 +1,6 @@
 <template>
     <div class="letter-wrapper">
-        <h1> {{ title }}</h1>
+        
         <p class="start"> {{start }}</p>
         <slot class="letter-body"></slot>
         <div class="sign-off">
@@ -26,11 +26,11 @@ export default defineComponent({
     },
     signOff: {
       type: String,
-      required: true,
+      required: false,
     },
     position: {
       type: String,
-      required: true,
+      required: false,
     },
   },
   setup(props) {
@@ -45,7 +45,7 @@ export default defineComponent({
 }
 
 #signature{
-    font-family:"Brush Script MT", cursive;
+    font-family:"Brush Script MT", sans-serif;
     font-size: 2.5vh;
     margin-left: 1%;
 }
@@ -53,10 +53,10 @@ export default defineComponent({
 .letter-wrapper{
     margin: 2% 0;
     width: 80%;
-    border: 4px solid #A0A0A0;
-    border-style: ridge;
     font-size: clamp(14px,2.5vh,20px);
     padding: 2%;
+    font-family: 'Palatino Linotype',sans-serif;
+    text-shadow: 2px 2px 4px black;
 }
 .start{
     text-align: left;
