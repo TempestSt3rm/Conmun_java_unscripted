@@ -186,6 +186,49 @@
 
     </Content_block_component>
 
+    <Content_block_component title="Election and Civil War">
+      <p>
+        Following L'Manberg's newfound independence, the nation held an election for its next leader. Creator J'Schlatt won the election due to a controversial coalition with another party running. Schlatt's authoritarian rule incited the creation of the Pogtopia resistance led by Wilbur Soot and TommyInnit. This resistance would end up raising a civil war, resulting in Schlatt's defeat. Wilbur Soot, however, being completely disillusioned by the war and feeling betrayed by TommyInnit ends up blowing up L'Manberg, leaving only remnants left of what used to be a nation.
+      </p>
+
+    </Content_block_component>
+    
+    <Content_block_component title="Anarchy">
+      <p>
+        Following the destruction of the SMP's only nation, anarchy ensued. Technoblade, an anarchist, grew in influence and opposed governments that were created in the SMP. He led a group called The Syndicate that had as a goal to destroy all authority within the DreamSMP, which led to the destabilization of the server's political structure and bringing about contentious times.
+      </p>
+    </Content_block_component>
+
+    <Content_block_component title="Eggpire Arc">
+      <p>
+        Amidst the chaos, a mysterious Red Egg appeared on the server, corrupting its players. Led by BadBoyHalo and other members, the Eggpire sought to control the SMP through manipulation and fear. This arc played on much darker themes than the server has seen so far as players tried to resist the Egg's power.
+      </p>
+    </Content_block_component>
+
+    <Content_block_component title="The End of the Disc Arc">
+      <p>
+        Throughout the entire series, the original Disc Saga still strung on with Dream and TommyInnit constantly at each other trying to become the ultimate owner of the discs. This arc would culminate in an intense showdown between Dream and Tommy where Dream would be imprisoned by the entirety of the rest of the server, marking the end of his reign of terror. The DreamSMP was now free.
+      </p>
+
+      <p>
+        With its incredibly high viewership and enticing and unique storylines, the DreamSMP ignited an exciting era in Minecraft's history focused around story-telling and exploring the themes of power, loyalty, and betrayal. Each player had their own unique arc and the amount of character depth as well as unexpected twists kept millions of viewers engaged. To this day, the DreamSMP remains the most influential SMP server in Minecraft's history, redefining what players could achieve through Minecraft storytelling.
+      </p>
+    </Content_block_component>
+
+    <Content_block_component title="Questions to Consider">
+      <p>
+        How should the committee organize itself? Should delegates remain together in one community or spread out among the Minecraft world?
+      </p>
+      <br>
+      <p>
+        Should delegates try and speed run the game, or build up their gear to better take down the dragon?
+      </p>
+      <br>
+      <p>
+        How will you survive your first night? Will you try and fight your way through it or find enough beds to sleep?
+      </p>
+    </Content_block_component>
+
 
   </div>
 

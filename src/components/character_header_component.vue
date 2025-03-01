@@ -49,10 +49,10 @@ export default defineComponent({
   flex-direction: column;
   max-width: 80vw;
   background-image: url('../assets/character_frame.png');
-  background-size: cover; /* Ensures the image covers the container */
-  background-position: center; /* Centers the image */
-  background-repeat: no-repeat; /* Prevents tiling of the image */
-  padding: 10px; /* Adds some spacing inside the container */
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  padding: 10px; 
   width: 250px;
   aspect-ratio: 1 / 1;
   min-width: 250px;
