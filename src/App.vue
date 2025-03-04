@@ -42,7 +42,7 @@ export default {
   },
   methods: {
     removeImage() {
-      this.imageVisible = false; // Permanently hide the image on click
+      this.imageVisible = false; 
     },
   },
 }
@@ -54,15 +54,15 @@ export default {
   top: -50px;
   right: -60px;
   transform: rotate(-40deg);
-  z-index: 999; /* Ensure it stays above other content */
-  max-width: 150px; /* Adjust size as needed */
-  opacity: 0; /* Start fully transparent */
-  transition: opacity 10s ease-in-out; /* Gradual fade-in effect */
-  box-shadow: 0 0 20px 10px rgba(0, 255, 255, 0.2); /* Glowing effect */
+  z-index: 999; 
+  max-width: 150px; 
+  opacity: 0; 
+  transition: opacity 10s ease-in-out; 
+  box-shadow: 0 0 20px 10px rgba(0, 255, 255, 0.2); 
 }
 
 .top-right-image.fade-in {
-  opacity: 0.5; /* Fully visible after the transition */
+  opacity: 0.5; 
 }
 
 </style>

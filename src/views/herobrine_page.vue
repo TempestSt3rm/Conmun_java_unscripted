@@ -1,22 +1,15 @@
 <template>
   <h1>
-    CHECK BACK MARCH 1 2025 
+    Here is a cookie for your efforts :)
   </h1>
 
-  <h1 class="construction-header">
-    'hes looking for you'
-  </h1>
+  <img src="../assets/Cookie.png" class="header">
+
+  <h2> Send a pictire of the cookie to us at javaunscripted@cg-aa.org for a future reward! </h2>
 </template>
 
 <style>
 .construction-header {
-  background: repeating-linear-gradient(
-    45deg,
-    black,
-    black 10px,
-    yellow 10px,
-    yellow 20px
-  );
   color: white;
   text-align: center;
   padding: 20px;
