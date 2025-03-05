@@ -5,7 +5,7 @@
 
   <img src="../assets/Cookie.png" class="header">
 
-  <h2> Send a pictire of the cookie to us at javaunscripted@cg-aa.org for a future reward! </h2>
+  <h2> Send a picture of the cookie to us at javaunscripted@cg-aa.org for a future reward! </h2>
 </template>
 
 <style>
