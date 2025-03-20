@@ -1,155 +1,155 @@
 [
   {
     "characterName": "AWESAMDUDE",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
     "life": 2
   },
   {
     "characterName": "BAJAN CANADIAN",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 3
   },
   {
     "characterName": "CaptainSparklez",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
     "life": 2
   },
   {
-    "characterName": "CUPQUAKE",
-    "armor": 0,
+    "characterName": "CupQuake",
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 0
   },
   {
     "characterName": "DanTDM",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 3
   },
   {
     "characterName": "FUNDY",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
     "life": 2
   },
   {
     "characterName": "GeorgeNotFound",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 1
   },
   {
     "characterName": "GRIAN",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 3
   },
   {
     "characterName": "JEROMEASF",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 3
   },
   {
     "characterName": "JSCHLATT",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 1
   },
   {
     "characterName": "LDSHADOWLADY",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 3
   },
   {
     "characterName": "MUMBOJUMBO",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
     "life": 2
   },
   {
     "characterName": "NIKI",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 3
   },
   {
     "characterName": "PEWDIEPIE",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
     "life": 2
   },
   {
     "characterName": "Ph1LzA",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 0
   },
   {
     "characterName": "PUNZ",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 0
   },
   {
     "characterName": "PRESTONPLAYZ",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 0
   },
   {
-    "characterName": "QUACKITY",
-    "armor": 0,
+    "characterName": "QUAKITY",
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 1
   },
   {
     "characterName": "RANBOO",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 1
   },
   {
     "characterName": "STAMPYLONGHEAD",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
-    "life": 2
+    "life": 1
   },
   {
     "characterName": "TOMMYINNIT",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
     "life": 2
   },
   {
     "characterName": "TUBBO",
-    "armor": 0,
     "heart": 10,
+    "armor": 0,
     "hunger": 10,
     "life": 2
   }
