@@ -2,7 +2,7 @@ import csv
 import json
 
 csv_filename = r"./src/assets/information/characters.csv"
-json_filename = r"./src/assets/information/character_info.json"
+json_filename = r"./src/assets/information/delegate_info.json"
 
 # Read CSV and convert to JSON format
 data = []
