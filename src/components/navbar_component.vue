@@ -13,7 +13,7 @@
         <router-link to="/background" class="navbar-item">Background</router-link>
         <router-link to="/history" class="navbar-item">Committee History</router-link>
         <router-link to="/characters" class="navbar-item">Characters</router-link>
-        <!-- <router-link to="/resources" class="navbar-item">Resources</router-link> -->
+        <router-link to="/resources" class="navbar-item">Resources</router-link> 
       </div>
       <div class="navbar-spacer">
 
@@ -59,7 +59,7 @@ export default {
     
     font-family: 'Minecraftia',sans-serif ;
     height: fit-content;
-    font-size: clamp(16px,1.7vw,2vw);
+    font-size: clamp(12px,1.5vw,1.9vw);
   }
 
   .navbar-start .navbar-item{

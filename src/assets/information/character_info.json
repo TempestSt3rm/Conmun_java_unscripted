@@ -1,288 +1,156 @@
-{
-    "AWESAMDUDE": {
-        "name": "AWESAMDUDE",
-        "missingSince": "30 Nov 2024",
-        "missingFrom": "TEXAS, UNITED STATES OF AMERICA",
-        "ageAtDisappearance": 25,
-        "affiliation": "DREAM SMP",
-        "height": "6'2\"",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "GREEN",
-        "skin_link": "https://mc-heads.net/skin/awesamdude",
-        "description":"Original member of DreamSMP, he demonstrates the joys of coding to children through Minecraft. His benevolent nature and undeniable redstone knowledge allows him to craft wonders of engineering within the game. Proudly Gryffindor, he never backs down from helping his fellows in the direst of situations."
-    },
-    "Ph1LzA": {
-        "name": "PHILIP 'Ph1LzA' WATSON",
-        "missingSince": "06 Nov 2024",
-        "missingFrom": "NEWCASTLE UPON TYNE, ENGLAND",
-        "ageAtDisappearance": 37,
-        "affiliation": "DREAM SMP",
-        "height": "6'0\"",
-        "gender": "MALE",
-        "hair": "BLOND",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/Ph1LzA",
-        "description": "Quickly gaining traction within the community, Ph1LzA is an emerging streamer known for his hardcore play-throughs. Despite his age, he still has a phobia of baby zombies, as they are associated with too much trauma. His beloved Samsung Smart Refrigerator (and wife) believes his manual skills will serve him well to find his way back home."
-    },
-    "GeorgeNotFound": {
-        "name": "GeorgeNotFound",
-        "missingSince": "24 Dec 2024",
-        "missingFrom": "CITY, PROVINCE",
-        "ageAtDisappearance": "28",
-        "affiliation": "DREAM SMP",
-        "height": "UNKNOWN",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "BLACK",
-        "skin_link": "https://mc-heads.net/skin/george",
-        "description": "Co-founder of the DreamSMP, GeorgeNotFound's coding abilities remain impressive. However, his apathy and impulsive nature led to his dethronement and exile. Stranded, his encounter with a wicked witch of the West transformed him into a pig, or so the legend says… Although his current state is unknown, his beloved partner and family would like to see him brought back alive."
-    },
-    "DanTDM": {
-        "name": "DANIEL 'DanTDM' MIDDLETON",
-        "missingSince": "06 Nov 2024",
-        "missingFrom": "WELLINGBOROUGH, ENGLAND",
-        "ageAtDisappearance": 33,
-        "affiliation": "SHADY OAKS SMP",
-        "height": "5'8\"",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/DanTDM",
-        "description": "A child of divorce, DanTDM's education lies in the production of music. Despite his arachnophobia, he seldom explores caves and mines seeking to catch a glimpse at those creatures he appreciates most: zombies! Through his journeys in unknown territory, he gathered an important knowledge of the land and its language, spreading his benevolent nature far and wide."
-    },
-    "CaptainSparklez": {
-        "name": "Jordan 'CaptainSparklez' Maron",
-        "missingSince": "12 Jan 2025",
-        "missingFrom": "Los Angeles, United States of America",
-        "ageAtDisappearance": 33,
-        "affiliation": "TRYHARDNINJA",
-        "height": "5'7",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/CaptainSparklez",
-        "description": "Operating various side quests, he initially uploaded Minecraft and fitness content before producing music parodies on his YouTube channel. Setting numerous Guinness World Records, CaptainSparklez's background in chemical engineering and computer science allowed him to take the internet by its horns and attract audiences worldwide!"
-    },
-    "TUBBO": {
-        "name": "Tobias James 'Tubbo' Smith",
-        "missingSince": "23 Nov 2024",
-        "missingFrom": "BRIGHTON, ENGLAND",
-        "ageAtDisappearance": 20,
-        "affiliation": "DREAM SMP",
-        "height": "5'9\"",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/TubboInnit",
-        "description": "In spite of a modest start for his streaming career, he has been nominated for three consecutive years as Minecraft Streamer of the Year. Of an introverted nature, Tubbo presents an unusual talent for camouflaging, efficiently blending into his surroundings right under everyone's nose. Still, he delights in playing instruments such as the ukulele, melodica, and piano. "
-    },
-    "TOMMYINNIT": {
-        "name": "TommyInnit",
-        "missingSince": "02 Nov 2024",
-        "missingFrom": "BRIGHTON, ENGLAND",
-        "ageAtDisappearance": 20,
-        "affiliation": "DREAM SMP",
-        "height": "6'2",
-        "gender": "MALE",
-        "hair": "BLOND",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/TommyInnit",
-        "description": "Rising in popularity due to his humour, his streaming career had a rather early start, beginning at 12 years old! Within the server, he mimicked Thanos and vowed to collect both rare discs rightfully his after losing them. Exiled, he never lost his urge to fight for his convictions and to protect those he cares most for."
-    },
-    "PUNZ": {
-        "name": "Luke 'PUNZ'",
-        "missingSince": "21 Dec 2024",
-        "missingFrom": "FLORIDA, UNITED STATES OF AMERICA",
-        "ageAtDisappearance": 27,
-        "affiliation": "DREAM SMP",
-        "height": "6'0",
-        "gender": "MALE",
-        "hair": "BLOND",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/Punz",
-        "description":"Cunning as a fox, Punz cruised through the server using deception to achieve personal gain. During his travels, he encountered various nefarious creatures and dark wizards, satisfying his intellectual curiosity. Albeit helpful persona, the Egg's corruption may have left more permanent damage than the others realized…"
-    },
-    "PRESTONPLAYZ": {
-        "name": "PRESTONPLAYZ",
-        "missingSince": "09 Jan 2025",
-        "missingFrom": "DALLAS, UNITED STATES OF AMERICA",
-        "ageAtDisappearance": 30,
-        "affiliation": "THE PACK",
-        "height": "5'7\"",
-        "gender": "MALE",
-        "hair": "BLACK",
-        "eyes": "GREEN",
-        "skin_link": "https://mc-heads.net/skin/PrestonPlayz",
-        "description":"From Fortnite to Among Us, passing by Call of Duty, Preston has gone through it all. Drifting from academic pursuit to his streaming career, he imposed himself as a dominant figure in the Minecraft community after hours upon hours of hard work. Undoubtedly, his bellicose and witty character possesses the resolve to achieve anything he turns his mind to."
-    },
-    "FUNDY": {
-        "name": "Floris 'FUNDY'",
-        "missingSince": "13 Nov 2024",
-        "missingFrom": "NETHERLANDS",
-        "ageAtDisappearance": 25,
-        "affiliation": "DREAM SMP",
-        "height": "6'3\"",
-        "gender": "MALE",
-        "hair": "WHITE/GRAY",
-        "eyes": "BLACK",
-        "skin_link": "https://mc-heads.net/skin/Fundy",
-        "description":"Embodying ecclesiastical and political power, his discreet manners allow him to prowl unnoticed into enemy territory to gain acceptance of others and feel included. Having excellent relations with the locals, Fundy's psyche was altered due to his numerous experiments. Now, he undergoes a self-improvement journey, trying to turn his world into a better place."
-    },
-    "LDSHADOWLADY": {
-        "name": "Lizzie 'LDShadowLady'",
-        "missingSince": "12 Nov 2024",
-        "missingFrom": "CITY, PROVINCE",
-        "ageAtDisappearance": 32,
-        "affiliation": "THIS LAND",
-        "height": "5'3\"",
-        "gender": "FEMALE",
-        "hair": "BROWN",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/LDShadowLady",
-        "description":"Playing a variety of video games, she was introduced to gaming early in her childhood. Asserting her position on the public forums, she may deceive others and hide her true intentions, easily masking her rather violent intentions. Still, she will not be the first to apologize, as her conviction and resolve are strong."
-    },
-    "JSCHLATT": {
-        "name": "JSchlatt",
-        "missingSince": "06 Jan 2025",
-        "missingFrom": "AUSTIN, UNITED STATES OF AMERICA",
-        "ageAtDisappearance": 23,
-        "affiliation": "DREAM SMP",
-        "height": "6'4\"",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "BLACK",
-        "skin_link": "https://mc-heads.net/skin/jschlatt",
-        "description":"Through his great aspirations and resolve, Jschlatt obtained the office of President of Manberg, an independent nation within DreamSMP. As vicious as Moo Daeng, his tyrannical regime was brought to an abrupt conclusion when his heart failed to receive enough oxygen. Although the principle behind his resurrection remains unknown to all, something within his eyes seems to have changed…"
-    },
-    "GRIAN": {
-        "name": "Grian",
-        "missingSince": "02 Dec 2024",
-        "missingFrom": "LONDON, ENGLAND",
-        "ageAtDisappearance": 31,
-        "affiliation": "HERMITCRAFT",
-        "height": "5'6\"",
-        "gender": "MALE",
-        "hair": "BLOND",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/grian",
-        "description":"A Minecraft architect at heart, Grian's career sky-rocketed following a tutorial on adapting players' houses. As such, he spent countless hours perfecting his craft, creating wonders of modern times across servers, despite his inadequacy in redstone engineering! Still, this absence of technical skills does not prevent him from using trinitrotoluene to make his monuments stand out."
-    },
-    "MUMBOJUMBO": {
-        "name": "MumboJumbo",
-        "missingSince": "19 Jan 2025",
-        "missingFrom": "BRITAIN, UNITED KINGDOM",
-        "ageAtDisappearance": "29",
-        "affiliation": "HERMITCRAFT",
-        "height": "6'5",
-        "gender": "MALE",
-        "hair": "BLOND",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/MumboJumbo",
-        "description":"Mastering the dark arts of redstone engineering, MumboJumbo can turn anything into a working machine to suit his desires. From automatic farms to complex computers, nothing appears to be out of reach for his mastery. However, his pacifist nature and frequent periods of inactivity prevented him from societal ascension…"
-    },
-    "NIKI": {
-        "name": "'Niki' Nihachu",
-        "missingSince": "18 Jan 2025",
-        "missingFrom": "Los Angeles, United States of America",
-        "ageAtDisappearance": 23,
-        "affiliation": "DREAM SMP",
-        "height": "5'5\"",
-        "gender": "FEMALE",
-        "hair": "BLOND/PINK",
-        "eyes": "LIGHT BROWN",
-        "skin_link": "https://mc-heads.net/skin/Nihachu",
-        "description":"In spite of her shy nature, Niki was shunned after voicing her concerns for citizens of L'Manburg under JSchlatt's tyranny. Using her social skills, she managed to gather a group of rebels, titled ‘Phoenix Squadron,' to liberate those who could not do so themselves. Her success was brief; she was sent to hell and forced to live as an hermit in her undisclosed underground city. "
-    },
-    "QUACKITY": {
-        "name": "Alexis 'Quackity'",
-        "missingSince": "18 Jan 2025",
-        "missingFrom": "MEXICO CITY, MEXICO",
-        "ageAtDisappearance": 24,
-        "affiliation": "QSMP",
-        "height": "5'5\"",
-        "gender": "MALE",
-        "hair": "BLACK",
-        "eyes": "BLACK",
-        "skin_link": "https://mc-heads.net/skin/Quackity",
-        "description":"Citizen of the people, Quackity has his fellow members' safety and security at the top of his priorities. Thus, he vowed to take down those who oppressed them, never backing away from a chance to fight for what he believes to be right! During his presidency of Las Nevadas, he shifted his moral compass towards pragmatism, as the end now justifies any means…"
-    },
-    "PEWDIEPIE": {
-        "name": "Felix 'PewDiePie' Kjellberg",
-        "missingSince": "01 Dec 2024",
-        "missingFrom": "TOKYO, JAPAN",
-        "ageAtDisappearance": 35,
-        "affiliation": "FLOOR GANG",
-        "height": "5'11\"",
-        "gender": "MALE",
-        "hair": "BLONDE",
-        "eyes": "BLUE",
-        "skin_link": "https://mc-heads.net/skin/pewdiepie_epic",
-        "description":"As the lawful King of YouTube, PewDiePie's career brought in some of the most memorable moments of the platform, including his periodic dips into Minecraft lore. On his survival and hardcore worlds, he amassed power and knowledge beyond any mortal, rivalling only that of the Water Sheep's God form. Although his wake seems to bring destruction, he managed to acquire a respectable reputation amongst the villagers."
-    },
-    "RANBOO": {
-        "name": "Ranboo",
-        "missingSince": "01 Jan 2025",
-        "missingFrom": "BRIGHTON, ENGLAND",
-        "ageAtDisappearance": 21,
-        "affiliation": "DREAM SMP",
-        "height": "8'5\"",
-        "gender": "NON-BINARY",
-        "hair": "BLONDE",
-        "eyes": "GREEN/RED",
-        "skin_link": "https://mc-heads.net/skin/Ranboozle",
-        "description":"Offspring of an Enderman and an unknown creature, Ranboo showcases a caring and friendly personality to anyone who does not exhibit an hostile attitude. Throughout history, their skillful mastery of debate has enabled them to defuse heated situations between members of the SMP. Ultimately, their benevolent nature prevailed during their escape from Pandora’s Vault, reincarnating under the guise of Boo, a ghost-like creature…"
-    },
-    "STAMPYLONGHEAD": {
-        "name": "StampyLongHead",
-        "missingSince": "05 Jan 2025",
-        "missingFrom": "HAVANT, ENGLAND",
-        "ageAtDisappearance": 34,
-        "affiliation": "LOVELY WORLD",
-        "height": "6'2\"",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "GRAY",
-        "skin_link": "https://mc-heads.net/skin/StampyLongHead",
-        "description":"Since his rise in popularity, Stampylonghead has been doing countless side quests to expand his brand and assert himself as a prominent influencer. Despite the controversies, his resolve was focussed on producing better entertainment for children across the world, featuring other famous streamers. Through his server, he built awe-inspiring rollercoasters and houses to furnish his amusement park."
-    },
-    "CUPQUAKE": {
-        "name": "Tiffany 'Cupquake' Herrera",
-        "missingSince": "03 Nov 2024",
-        "missingFrom": "LOS ANGELES, UNITED STATES OF AMERICA",
-        "ageAtDisappearance": 37,
-        "affiliation": "OASIS",
-        "height": "5'3\"",
-        "gender": "FEMALE",
-        "hair": "BROWN",
-        "eyes": "BLACK",
-        "skin_link": "https://mc-heads.net/skin/ihascupquake",
-        "description":"From baking to Minecraft, her versatility and manual skills would impress the most experienced handyperson. Turning into Coriolanus Snow, she hosted the very first battle royale of the platform, assembling creators into the arena for the pleasure of those watching from their couches! Despite her popularity amongst youngsters and in-game animals, her reputation amongst villagers will forever be stained…"
-    },
-    "BAJAN CANADIAN": {
-        "name": "Bajan Canadian",
-        "missingSince": "12 Nov 2024",
-        "missingFrom": "ST. PETERSBURG, UNITED STATES OF AMERICA",
-        "ageAtDisappearance": 31,
-        "affiliation": "THE PACK",
-        "height": "5'8\"",
-        "gender": "MALE",
-        "hair": "BLOND",
-        "eyes": "GREEN",
-        "skin_link": "https://mc-heads.net/skin/BajanCanadian__",
-        "description":"From Minecraft videos to mature content, Mitchell can do it all! With his incredible versatility and resilience, he is able to cook Michelin stars wonders in a cave, with a box of scraps. His well-known battle royale series set him as an emerging figure on the Minecraft map, assisted with his first-person shooter experience."
-    },
-    "JEROMEASF": {
-        "name": "JeromeASF",
-        "missingSince": "11 Nov 2024",
-        "missingFrom": "ST. PETERSBURG, UNITED STATES OF AMERICA",
-        "ageAtDisappearance": 31,
-        "affiliation": "THE PACK",
-        "height": "6'0\"",
-        "gender": "MALE",
-        "hair": "BROWN",
-        "eyes": "BROWN",
-        "skin_link": "https://mc-heads.net/skin/JeromeASF",
-        "description":"Along with his friends, he levered his leadership to assemble a team of remarkable people to see if they could amount to something more as a team. When his initiative failed, he joined another community with the intent of maximizing his income from his YouTube videos. Although the origin of his fame lay in a Minecraft battle royale, he soon discovered that his viewership was comparable when he attempted other creative ideas, which drove him to diversify his assets and record music videos!"
-    }
-}
+[
+  {
+    "characterName": "AWESAMDUDE",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "BAJAN CANADIAN",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "CaptainSparklez",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "CupQuake",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "DanTDM",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "FUNDY",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "GeorgeNotFound",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "GRIAN",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "JEROMEASF",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "JSCHLATT",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "LDSHADOWLADY",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "MUMBOJUMBO",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "NIKI",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "PEWDIEPIE",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "Ph1LzA",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "PUNZ",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "PRESTONPLAYZ",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "QUAKITY",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "RANBOO",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "STAMPYLONGHEAD",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "TOMMYINNIT",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  },
+  {
+    "characterName": "TUBBO",
+    "heart": 10,
+    "armor": 0,
+    "hunger": 10,
+    "life": 2
+  }
+]
