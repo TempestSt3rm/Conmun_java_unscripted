@@ -2,7 +2,7 @@
     <div class="grid-container">
 
         
-        <Character_resource_component v-for=" character_stat in character_stats"
+        <Character_resource_component v-for=" character_stat in filtered_character_stats"
         
         :characterName=character_stat.characterName 
         :key = character_stat.characterName
@@ -29,6 +29,11 @@ export default {
     data(){
         return{
             character_stats
+        }
+    },
+    computed: {
+        filtered_character_stats() {
+            return this.character_stats.filter(character => character.life > 0);
         }
     }
 }
