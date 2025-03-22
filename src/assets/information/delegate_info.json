@@ -15,7 +15,7 @@
   },
   {
     "characterName": "CaptainSparklez",
-    "heart": 2,
+    "heart": 10,
     "armor": 5,
     "hunger": 10,
     "life": 2
@@ -30,7 +30,7 @@
   {
     "characterName": "DanTDM",
     "heart": 10,
-    "armor": 1,
+    "armor": 8,
     "hunger": 10,
     "life": 1
   },
@@ -78,9 +78,9 @@
   },
   {
     "characterName": "MUMBOJUMBO",
-    "heart": 2,
+    "heart": 8,
     "armor": 7,
-    "hunger": 9,
+    "hunger": 10,
     "life": 2
   },
   {
@@ -93,9 +93,9 @@
   {
     "characterName": "PEWDIEPIE",
     "heart": 10,
-    "armor": 2,
+    "armor": 8,
     "hunger": 10,
-    "life": 1
+    "life": 3
   },
   {
     "characterName": "Ph1LzA",
@@ -128,7 +128,7 @@
   {
     "characterName": "RANBOO",
     "heart": 10,
-    "armor": 6,
+    "armor": 10,
     "hunger": 10,
     "life": 2
   },
@@ -142,7 +142,7 @@
   {
     "characterName": "TOMMYINNIT",
     "heart": 2,
-    "armor": 1,
+    "armor": 10,
     "hunger": 8,
     "life": 2
   },
