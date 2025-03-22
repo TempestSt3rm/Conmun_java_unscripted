@@ -1,22 +1,22 @@
 [
   {
     "characterName": "AWESAMDUDE",
-    "heart": 10,
-    "armor": 8,
+    "heart": 4,
+    "armor": 3,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "BAJAN CANADIAN",
-    "heart": 21,
+    "heart": 4,
     "armor": 9000,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "CaptainSparklez",
-    "heart": 10,
-    "armor": 5,
+    "heart": 4,
+    "armor": 3,
     "hunger": 10,
     "life": 1
   },
@@ -29,70 +29,70 @@
   },
   {
     "characterName": "DanTDM",
-    "heart": 10,
-    "armor": 8,
+    "heart": 4,
+    "armor": 3,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "FUNDY",
-    "heart": 10,
-    "armor": 0,
+    "heart": 4,
+    "armor": 3,
     "hunger": 5,
     "life": 1
   },
   {
     "characterName": "GeorgeNotFound",
-    "heart": 10,
-    "armor": 5,
+    "heart": 4,
+    "armor": 3,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "GRIAN",
-    "heart": 10,
-    "armor": 1,
+    "heart": 4,
+    "armor": 3,
     "hunger": 8,
     "life": 1
   },
   {
     "characterName": "JEROMEASF",
-    "heart": 10,
+    "heart": 9,
     "armor": 12,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "JSCHLATT",
-    "heart": 10,
-    "armor": 10,
+    "heart": 4,
+    "armor": 3,
     "hunger": 8,
     "life": 1
   },
   {
     "characterName": "LDSHADOWLADY",
     "heart": 3,
-    "armor": 2,
+    "armor": 3,
     "hunger": 8,
     "life": 1
   },
   {
     "characterName": "MUMBOJUMBO",
-    "heart": 10,
+    "heart": 9,
     "armor": 12,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "NIKI",
-    "heart": 10,
+    "heart": 4,
     "armor": 3,
     "hunger": 8,
     "life": 1
   },
   {
     "characterName": "PEWDIEPIE",
-    "heart": 10,
+    "heart": 9,
     "armor": 18,
     "hunger": 10,
     "life": 1
@@ -120,28 +120,28 @@
   },
   {
     "characterName": "QUAKITY",
-    "heart": 10,
-    "armor": 1,
+    "heart": 4,
+    "armor": 3,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "RANBOO",
-    "heart": 10,
-    "armor": 10,
+    "heart": 4,
+    "armor": 3,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "STAMPYLONGHEAD",
-    "heart": 10,
-    "armor": 6,
+    "heart": 4,
+    "armor": 3,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "TOMMYINNIT",
-    "heart": 10,
+    "heart": 8,
     "armor": 10,
     "hunger": 8,
     "life": 1

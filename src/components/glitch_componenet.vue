@@ -1,6 +1,6 @@
 <template>
     <div v-if="show" class="glitch-overlay">
-      <div class="tear" v-for="n in 5" :key="n"></div>
+      <div class="tear" v-for="n in 10" :key="n"></div>
     </div>
   </template>
   
