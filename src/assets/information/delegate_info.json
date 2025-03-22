@@ -3,15 +3,15 @@
     "characterName": "AWESAMDUDE",
     "heart": 10,
     "armor": 8,
-    "hunger": 8,
+    "hunger": 10,
     "life": 1
   },
   {
     "characterName": "BAJAN CANADIAN",
-    "heart": 10,
-    "armor": 15,
-    "hunger": 7,
-    "life": 0
+    "heart": 21,
+    "armor": 9000,
+    "hunger": 10,
+    "life": 1
   },
   {
     "characterName": "CaptainSparklez",
@@ -65,35 +65,35 @@
   {
     "characterName": "JSCHLATT",
     "heart": 10,
-    "armor": 1,
-    "hunger": 6,
+    "armor": 10,
+    "hunger": 8,
     "life": 1
   },
   {
     "characterName": "LDSHADOWLADY",
-    "heart": 10,
+    "heart": 3,
     "armor": 2,
-    "hunger": 6,
+    "hunger": 8,
     "life": 1
   },
   {
     "characterName": "MUMBOJUMBO",
     "heart": 10,
-    "armor": 7,
+    "armor": 12,
     "hunger": 10,
     "life": 1
   },
   {
     "characterName": "NIKI",
     "heart": 10,
-    "armor": 1,
+    "armor": 3,
     "hunger": 8,
     "life": 1
   },
   {
     "characterName": "PEWDIEPIE",
     "heart": 10,
-    "armor": 15,
+    "armor": 18,
     "hunger": 10,
     "life": 1
   },
