@@ -71,6 +71,7 @@ const hasEmptyArmor = computed(() => props.armor === 0);
     display: flex;
     flex-direction: column;
     width: fit-content;
+    background-color: red;
 }
 
 .name{
