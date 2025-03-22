@@ -1,7 +1,7 @@
 <template>
 
 
-    <div class="character-resource-container "> <!-- glitch -->
+    <div class="character-resource-container " :class="{ active: isActive }"> <!-- glitch -->
         <div class="name">
             {{ props.characterName }}
         </div>
@@ -44,6 +44,7 @@
 import { defineProps,computed } from "vue";
 // const message = ref('This is character resource component');
 
+
 const props = defineProps({
     characterName: String,
     heart: Number,
@@ -62,6 +63,8 @@ const imgPaths = {
 };
 
 const hasEmptyArmor = computed(() => props.armor === 0);
+const isActive = computed(() => props.characterName === "BAJAN CANADIAN");
+
 
 </script>
 
@@ -116,5 +119,10 @@ const hasEmptyArmor = computed(() => props.armor === 0);
     flex-direction: row;
     gap: 2px;
     
+}
+
+.active {
+    background-color: maroon !important;
+  font-weight: bold;
 }
 </style>
