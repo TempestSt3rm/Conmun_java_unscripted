@@ -1,7 +1,7 @@
 <template>
 
 
-    <div class="character-resource-container">
+    <div class="character-resource-container "> <!-- glitch -->
         <div class="name">
             {{ props.characterName }}
         </div>

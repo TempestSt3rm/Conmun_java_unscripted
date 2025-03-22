@@ -136,3 +136,84 @@ a:hover::after {
 html {
   scrollbar-width: none;
 }
+
+.glitch {
+  position: relative;
+  color: white;
+  font-weight: bold;
+  animation: glitch 1s infinite;
+}
+
+.glitch::before,
+.glitch::after {
+  content: attr(data-text);
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  color: white;
+  clip: rect(0, 900px, 0, 0);
+}
+
+.glitch::before {
+  animation: glitchTop 1s infinite linear;
+  color: #f0f;
+  z-index: -1;
+}
+
+.glitch::after {
+  animation: glitchBottom 1s infinite linear;
+  color: #0ff;
+  z-index: -2;
+}
+
+@keyframes glitch {
+  0% {
+    transform: none;
+  }
+  20% {
+    transform: skew(-0.5deg, -0.9deg);
+  }
+  40% {
+    transform: skew(0.5deg, 0.6deg);
+  }
+  60% {
+    transform: skew(-0.8deg, -0.3deg);
+  }
+  80% {
+    transform: skew(0.3deg, 0.2deg);
+  }
+  100% {
+    transform: none;
+  }
+}
+
+@keyframes glitchTop {
+  0% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(-3px, -3px);
+  }
+  50% {
+    clip: rect(0, 9999px, 5px, 0);
+    transform: translate(3px, 2px);
+  }
+  100% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(-3px, -1px);
+  }
+}
+
+@keyframes glitchBottom {
+  0% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(3px, 2px);
+  }
+  50% {
+    clip: rect(0, 9999px, 5px, 0);
+    transform: translate(-3px, -3px);
+  }
+  100% {
+    clip: rect(0, 9999px, 0, 0);
+    transform: translate(3px, 1px);
+  }
+}
