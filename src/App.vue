@@ -6,7 +6,7 @@
       <navbar_component/>
     </header>
     <main>
-      <!-- <glitch_component></glitch_component> -->
+      <glitch_component></glitch_component>
       <router-view></router-view>
     </main>
     <img src="../public/img/heads/herobrine_head.png" 
@@ -22,7 +22,7 @@
 
 <script>
 import footer_component from './components/footer_component.vue';
-// import glitch_component from './components/glitch_componenet.vue';
+import glitch_component from './components/glitch_componenet.vue';
 import navbar_component from './components/navbar_component.vue';
 
 
@@ -31,7 +31,7 @@ export default {
   components: {
     navbar_component,
     footer_component,
-    // glitch_component
+    glitch_component
   },
   data() {
     return {

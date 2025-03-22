@@ -13,6 +13,10 @@
         </iframe>
       </div>
 
+      <div class="map">
+        <img src="../assets/Map.png">
+      </div>
+
       <Letter_component title="Chair" start="Hello Delegates!" signOff="Hudson Bonneau" position="Committee Chair">
 
         <p>

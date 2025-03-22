@@ -1,7 +1,7 @@
 <template>
 
 
-    <div class="character-resource-container " :class="{ active: isActive }"> <!-- glitch -->
+    <div class="character-resource-container glitch" :class="{ active: isActive }"> 
         <div class="name">
             {{ props.characterName }}
         </div>
