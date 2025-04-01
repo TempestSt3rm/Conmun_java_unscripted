@@ -6,7 +6,7 @@
       <navbar_component/>
     </header>
     <main>
-      <glitch_component></glitch_component>
+      <!-- <glitch_component></glitch_component> -->
       <router-view></router-view>
     </main>
     <img src="../public/img/heads/herobrine_head.png" 
